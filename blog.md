@@ -11,7 +11,7 @@ Welcome to my Blog Page!
 GitHib Repos!
 
 <ul>
-	<li><a href="/https://github.com/amritkrishan/jMeter">JMeter</a></li>
+	<li><a href="https://github.com/amritkrishan/jMeter">JMeter</a></li>
 	<li><a href="https://github.com/amritkrishan/Appium/tree/master/MyProject">Appium</a></li>
 	<li><a href="https://github.com/amritkrishan/DropwizardMongoDB">Dropwizard MongoDB</a></li>
 	<li><a href="https://github.com/amritkrishan/Cucumber">Cucumber</a></li>

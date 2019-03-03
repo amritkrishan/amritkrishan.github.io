@@ -26,6 +26,7 @@ GitHib Repos!
 	<li><a href="https://github.com/amritkrishan/Cucumber">Cucumber</a></li>
 	<li><a href="https://github.com/amritkrishan/Amazon">Amazon</a></li>
 	<li><a href="https://github.com/amritkrishan/Ansible">Ansible</a></li>
+	<li><a href="https://github.com/amritkrishan/azure_terraform">Azure Terraform</a></li>
 	<li><a href="https://github.com/amritkrishan/ToDoList">ToDoList</a></li>
 	<li><a href="https://github.com/amritkrishan/E2E_Unit_Test_Framework">E2E Unit Test Framework</a></li>
 	<li><a href="https://github.com/amritkrishan/Cucumber-TestNG">Cucumber TestNG</a></li>

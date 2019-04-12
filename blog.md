@@ -19,6 +19,9 @@ GitHib Repos!
 	<li><a href="https://github.com/amritkrishan/ElasticSearch">Elastic Search Example</a></li>
 	<li><a href="https://github.com/amritkrishan/Kafka-Consumer">Kafka Consumer Application</a></li>
 	<li><a href="https://github.com/amritkrishan/Kafka-Producer">Kafka Producer Application</a></li>
+	<li><a href="https://github.com/amritkrishan/RabbitMQProducerDirectExchange">RabbitMQ Producer with Direct Exchange Example</a></li>
+	<li><a href="https://github.com/amritkrishan/RabbitMQProducerFanoutExchange">RabbitMQ Producer with Fanout Exchange Example</a></li>
+	<li><a href="https://github.com/amritkrishan/RabbitMQConsumer">RabbitMQ Consumer Example</a></li>
 	<li><a href="https://github.com/amritkrishan/WebSocket">WebSocket Example</a></li>
 	<li><a href="https://github.com/amritkrishan/BrowserMobProxy">Browser Mob Proxy Capturing Requests and Responses</a></li>
 	<li><a href="https://github.com/amritkrishan/Robot-Selenium-Webdriver">Robot Framework with Selenium WebDriver</a></li>

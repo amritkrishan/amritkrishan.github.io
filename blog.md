@@ -13,6 +13,7 @@ GitHib Repos!
 <ul>
 	<li><a href="https://github.com/amritkrishan/ParallelUniverse">Design Parallel Universe with Spring Boot and MySql</a></li>
 	<li><a href="https://github.com/amritkrishan/DropwizardMongoDB">Design Employee Info with Dropwizard and MongoDB</a></li>
+	<li><a href="https://github.com/amritkrishan/config">Service Registry with Eureka and Zuul for Gateway</a></li>
 	<li><a href="https://github.com/amritkrishan/AESExample">Asymmetric Encryption & Decryption of Data</a></li>
 	<li><a href="https://github.com/amritkrishan/datagen">Generate Millions of Records and store in CSV</a></li>
 	<li><a href="https://github.com/amritkrishan/aspectjexample">AOP Beginner-Level Tutorial</a></li>

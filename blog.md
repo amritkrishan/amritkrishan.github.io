@@ -28,7 +28,7 @@ GitHib Repos!
 	<li><a href="https://github.com/amritkrishan/WebSocket">WebSocket Example</a></li>
 	<li><a href="https://github.com/amritkrishan/BrowserMobProxy">Browser Mob Proxy Capturing Requests and Responses</a></li>
 	<li><a href="https://github.com/amritkrishan/Robot-Selenium-Webdriver">Robot Framework with Selenium WebDriver</a></li>
-	<li><a href="https://github.com/amritkrishan/locust">Locust</a></li>
+	<li><a href="https://github.com/amritkrishan/locust-tutorial">Locust</a></li>
 	<li><a href="https://github.com/amritkrishan/jMeter">JMeter</a></li>
 	<li><a href="https://github.com/amritkrishan/Appium/tree/master/MyProject">Appium</a></li>
 	<li><a href="https://github.com/amritkrishan/Cucumber">Cucumber</a></li>

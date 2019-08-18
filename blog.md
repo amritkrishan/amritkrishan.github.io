@@ -14,6 +14,7 @@ GitHib Repos!
 	<li><a href="https://github.com/amritkrishan/ParallelUniverse">Design Parallel Universe with Spring Boot and MySql</a></li>
 	<li><a href="https://github.com/amritkrishan/DropwizardMongoDB">Design Employee Info with Dropwizard and MongoDB</a></li>
 	<li><a href="https://github.com/amritkrishan/config">Service Registry with Eureka and Zuul for Gateway</a></li>
+	<li><a href="https://github.com/amritkrishan/hateoas">Spring Boot with Hateoas (Hypertext as the Engine of Application State) Tutorial</a></li>
 	<li><a href="https://github.com/amritkrishan/AESExample">Asymmetric Encryption & Decryption of Data</a></li>
 	<li><a href="https://github.com/amritkrishan/datagen">Generate Millions of Records and store in CSV</a></li>
 	<li><a href="https://github.com/amritkrishan/aspectjexample">AOP Beginner-Level Tutorial</a></li>
@@ -27,6 +28,7 @@ GitHib Repos!
 	<li><a href="https://github.com/amritkrishan/WebSocket">WebSocket Example</a></li>
 	<li><a href="https://github.com/amritkrishan/BrowserMobProxy">Browser Mob Proxy Capturing Requests and Responses</a></li>
 	<li><a href="https://github.com/amritkrishan/Robot-Selenium-Webdriver">Robot Framework with Selenium WebDriver</a></li>
+	<li><a href="https://github.com/amritkrishan/locust">Locust</a></li>
 	<li><a href="https://github.com/amritkrishan/jMeter">JMeter</a></li>
 	<li><a href="https://github.com/amritkrishan/Appium/tree/master/MyProject">Appium</a></li>
 	<li><a href="https://github.com/amritkrishan/Cucumber">Cucumber</a></li>

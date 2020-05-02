@@ -35,7 +35,7 @@ GitHib Repos!
 	<li><a href="https://github.com/amritkrishan/jMeter">JMeter</a></li>
 	<li><a href="https://github.com/amritkrishan/Appium/tree/master/MyProject">Appium</a></li>
 	<li><a href="https://github.com/amritkrishan/Cucumber">Cucumber</a></li>
-	<li><a href="https://github.com/amritkrishan/Amazon">Amazon</a></li>
+	<li><a href="https://github.com/amritkrishan/TestMetricsInflux">Automating capturing Test Metrics using InfluxDB</a></li>
 	<li><a href="https://github.com/amritkrishan/Ansible">Ansible</a></li>
 	<li><a href="https://github.com/amritkrishan/azure_terraform">Azure Terraform</a></li>
 	<li><a href="https://github.com/amritkrishan/ToDoList">ToDoList</a></li>

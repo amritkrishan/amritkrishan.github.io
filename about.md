@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Amrit Krishan - Quality Engineer III!
+Amrit Krishan - Quality Engineer III
 
 ### More Information
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Amrit Krishan - Staff Software Engineer!
+Amrit Krishan - Quality Engineer III!
 
 ### More Information
 

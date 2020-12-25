@@ -14,6 +14,7 @@ Medium Posts!
 	<li><a href="https://medium.com/@amkrishan/guide-to-improve-test-coverage-by-automating-integration-tests-f5e1cb8194bb">Guide to Improve Test Coverage by Automating Integration Tests
 </a></li>
 	<li><a href="https://medium.com/@amkrishan/automation-framework-google-guice-rest-assured-and-selenium-66fd171df341">Automation Framework — Google Guice, Rest Assured and Selenium</a></li>
+        <li><a href="https://link.medium.com/qNd7YL9Fqcb">AB Testing Explained</a></li>
 </ul>
 
 ### My Projects

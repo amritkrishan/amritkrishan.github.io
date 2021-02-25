@@ -22,6 +22,7 @@ Medium Posts!
 GitHib Repos!
 
 <ul>
+	<li><a href="https://github.com/amritkrishan/data_science_supervised_learning">Data Science Supervised Learning Techniques</a></li>
 	<li><a href="https://github.com/amritkrishan/autosuggest">Rule Engine Example with Drools</a></li>
 	<li><a href="https://github.com/amritkrishan/chaos-experiment">Chaos Experiment with Spring Boot and H2</a></li>
 	<li><a href="https://github.com/amritkrishan/ParallelUniverse">Design Parallel Universe with Spring Boot and MySql</a></li>

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Amrit Krishan - Software Engineer III
+Amrit Krishan - Software Dev Engineer Test II
 
 ### More Information
 

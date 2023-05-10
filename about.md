@@ -13,3 +13,4 @@ Experienced in technologies like JAVA, Automation Testing, REST API development 
 ### Contact me
 
 [amkrishan@gmail.com](mailto:amkrishan@gmail.com)
+<a href="https://www.linkedin.com/in/amrit-krishan-6b31899b">LinkedIn</a>

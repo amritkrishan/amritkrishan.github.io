@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Amrit Krishan - Software Dev Engineer Test II
+Amrit Krishan - Software Dev Engineer II
 
 ### More Information
 
-Experienced in technologies like JAVA, Automation Testing, REST API development and CI/CD.
+Experienced in technologies like JAVA, REST API development, Automation Testing and CI/CD.
 
 ### Contact me
 
